@@ -1,4 +1,4 @@
-##instalation
+## Instalation
 
 1. Create 2 bash menu
 2. All the commands in bash write without quotes 
